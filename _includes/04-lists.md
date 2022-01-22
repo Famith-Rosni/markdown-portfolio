@@ -1,0 +1,7 @@
+- Personal skills
+  - Enthusiastic
+  - Energetic
+  - hardworking
+- Projects
+  - Automated abrasive saw
+  - Log analysis tool for wordpress
