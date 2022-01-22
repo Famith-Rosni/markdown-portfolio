@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Personal skills
+  - Enthusiastic
+  - Energetic
+  - hardworking
+- Projects
+  - Automated abrasive saw
+  - Log analysis tool for wordpress
